@@ -1,0 +1,55 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #67839d;
+  color: black;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 2rem;
+}
+
+#projects {
+  background-color: #67839d;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#certificates {
+  background-color: #ffffff;
+}
+
+#contact {
+  background-color: #67839d;
+}
+
+section h1 {
+  font-size: 2.5rem;
+}
+
+section {
+  padding-top: 5rem;
+}
+/* Navbar */
+
+.nav-link.active {
+  color: black !important;
+  font-weight: 700;
+}
+
+/* end Navbar */
+
+/* CTA */
+.btn-custom1 {
+  background-color: black;
+  text-align: center;
+  color: #fff;
+  min-width: 150px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.btn-custom1 {
+  box-shadow: 0 0 5px rgba(255, 166, 0, 0.8);
+}
+/* End Hero */
